@@ -1,3 +1,5 @@
+muestra la salida del comando ls -la
+
 total 16
 drwxr-xr-x 3 alejo alejo 4096 nov 17 18:59 .
 drwxr-xr-x 7 alejo alejo 4096 nov 17 18:23 ..
@@ -16,6 +18,10 @@ drwxr-xr-x 7 alejo alejo 4096 nov 17 18:23 ..
 drwxr-xr-x 3 alejo alejo 4096 nov 17 18:52 titan
 -rw-r--r-- 1 alejo alejo    0 nov 17 19:22 vecina
 -rw-r--r-- 1 alejo alejo    0 nov 17 18:48 y
+muestra la salida del comando tree en la ubicacion de dodne me encuentro
+
+
+
 .
 ├── alumbrando
 ├── casa
