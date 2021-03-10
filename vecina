@@ -1,0 +1,37 @@
+total 16
+drwxr-xr-x 3 alejo alejo 4096 nov 17 18:59 .
+drwxr-xr-x 7 alejo alejo 4096 nov 17 18:23 ..
+-rw-r--r-- 1 alejo alejo   88 nov 17 18:59 alumbrando
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 casa
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 con
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 esas
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 esta
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 la
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 lamparitas
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 llego
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 maricas
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 me
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 polica
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 robaron
+drwxr-xr-x 3 alejo alejo 4096 nov 17 18:52 titan
+-rw-r--r-- 1 alejo alejo    0 nov 17 19:22 vecina
+-rw-r--r-- 1 alejo alejo    0 nov 17 18:48 y
+.
+├── alumbrando
+├── casa
+├── con
+├── esas
+├── esta
+├── la
+├── lamparitas
+├── llego
+├── maricas
+├── me
+├── polica
+├── robaron
+├── titan
+│   └── ae
+├── vecina
+└── y
+
+2 directories, 14 files
